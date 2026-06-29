@@ -65,6 +65,21 @@ The dataset contains approximately **20,000 student records** with attributes in
    * Matplotlib
 4. Run all notebook cells to reproduce the analysis and visualizations.
 
+## Sample Visualizations
+
+### Correlation Heatmap
+![Correlation Heatmap](images/correlation_heatmap.png)
+
+### Productivity Score Distribution
+![Productivity Distribution](images/productivity_distribution.png)
+
+### Screen Time vs Productivity
+![Screen Time vs Productivity](images/screen_time_vs_productivity.png)
+
+### Focus Score vs Productivity
+![Stress Level vs Productivity](images/focus_score_vs_productivity.png)
+
+
 ## Author
 
 **Ankita Devlekar**
