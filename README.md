@@ -6,10 +6,12 @@ This project explores the impact of digital distractions on student productivity
 
 ## Objectives
 
-* Analyze the relationship between digital distractions and student productivity.
-* Explore the influence of study habits, screen time, stress, sleep, and focus on academic performance.
-* Perform data cleaning and visualization to identify trends and patterns.
-* Present insights through exploratory data analysis.
+* To analyze the impact of digital distractions on student productivity. 
+* To perform Exploratory Data Analysis (EDA) on student behavior data. 
+* To identify key factors like study hours, sleep, stress, and screen time. 
+* To visualize data using graphs and charts. 
+* To provide insights and recommendations for improving productivity. 
+
 
 ## Technologies Used
 
@@ -41,17 +43,21 @@ The dataset contains approximately **20,000 student records** with attributes in
 
 ## Key Insights
 
-* Identified relationships between screen time and productivity.
-* Explored the impact of stress levels and sleep duration on student performance.
-* Analyzed how study habits and focus contribute to productivity.
-* Presented findings using clear and informative visualizations.
+* Focus score is the most important factor for productivity.
+* Optimal study time is around 6–8 hours/day. 
+* Excessive screen time negatively impacts productivity. 
+* Higher stress leads to lower performance. 
+* Adequate sleep improves focus and productivity. 
+
 
 ## Project Structure
 
 ```
-├── Exploratory_Data_Analysis.ipynb
-├── student_productivity_dataset.csv
+├── EDA_student_data_analysis.ipynb
+├── student_productivity_dataset_cleaned.csv
 ├── README.md
+|__ requirements.txt
+|__ images
 ```
 
 ## How to Run
