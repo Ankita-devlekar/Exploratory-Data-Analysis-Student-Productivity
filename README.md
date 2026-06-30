@@ -32,7 +32,7 @@ This project explores the impact of digital distractions on student productivity
 
 ## Dataset
 
-The dataset contains approximately **20,000 student records** with attributes including:
+The dataset contains approximately **20,000 student records** with total 18 attributes including:
 
 * Screen Time
 * Study Hours
