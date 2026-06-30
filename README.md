@@ -89,5 +89,3 @@ The dataset contains approximately **20,000 student records** with total 18 attr
 ## Author
 
 **Ankita Devlekar**
-
-MCA Student | Aspiring Software Developer & Data Analytics Enthusiast
